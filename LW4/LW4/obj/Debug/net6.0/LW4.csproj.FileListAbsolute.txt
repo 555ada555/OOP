@@ -1,0 +1,15 @@
+D:\OOP\програма\LW4\LW4\obj\Debug\net6.0\LW4.csproj.AssemblyReference.cache
+D:\OOP\програма\LW4\LW4\obj\Debug\net6.0\LW4.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\програма\LW4\LW4\obj\Debug\net6.0\LW4.AssemblyInfoInputs.cache
+D:\OOP\програма\LW4\LW4\obj\Debug\net6.0\LW4.AssemblyInfo.cs
+D:\OOP\програма\LW4\LW4\obj\Debug\net6.0\LW4.csproj.CoreCompileInputs.cache
+D:\OOP\програма\LW4\LW4\bin\Debug\net6.0\LW4.exe
+D:\OOP\програма\LW4\LW4\bin\Debug\net6.0\LW4.deps.json
+D:\OOP\програма\LW4\LW4\bin\Debug\net6.0\LW4.runtimeconfig.json
+D:\OOP\програма\LW4\LW4\bin\Debug\net6.0\LW4.dll
+D:\OOP\програма\LW4\LW4\bin\Debug\net6.0\LW4.pdb
+D:\OOP\програма\LW4\LW4\obj\Debug\net6.0\LW4.dll
+D:\OOP\програма\LW4\LW4\obj\Debug\net6.0\refint\LW4.dll
+D:\OOP\програма\LW4\LW4\obj\Debug\net6.0\LW4.pdb
+D:\OOP\програма\LW4\LW4\obj\Debug\net6.0\LW4.genruntimeconfig.cache
+D:\OOP\програма\LW4\LW4\obj\Debug\net6.0\ref\LW4.dll
