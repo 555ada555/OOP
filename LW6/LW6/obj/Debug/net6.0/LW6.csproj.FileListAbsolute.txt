@@ -1,0 +1,15 @@
+D:\OOP\програма\LW6\LW6\bin\Debug\net6.0\LW6.exe
+D:\OOP\програма\LW6\LW6\bin\Debug\net6.0\LW6.deps.json
+D:\OOP\програма\LW6\LW6\bin\Debug\net6.0\LW6.runtimeconfig.json
+D:\OOP\програма\LW6\LW6\bin\Debug\net6.0\LW6.dll
+D:\OOP\програма\LW6\LW6\bin\Debug\net6.0\LW6.pdb
+D:\OOP\програма\LW6\LW6\obj\Debug\net6.0\LW6.csproj.AssemblyReference.cache
+D:\OOP\програма\LW6\LW6\obj\Debug\net6.0\LW6.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\програма\LW6\LW6\obj\Debug\net6.0\LW6.AssemblyInfoInputs.cache
+D:\OOP\програма\LW6\LW6\obj\Debug\net6.0\LW6.AssemblyInfo.cs
+D:\OOP\програма\LW6\LW6\obj\Debug\net6.0\LW6.csproj.CoreCompileInputs.cache
+D:\OOP\програма\LW6\LW6\obj\Debug\net6.0\LW6.dll
+D:\OOP\програма\LW6\LW6\obj\Debug\net6.0\refint\LW6.dll
+D:\OOP\програма\LW6\LW6\obj\Debug\net6.0\LW6.pdb
+D:\OOP\програма\LW6\LW6\obj\Debug\net6.0\LW6.genruntimeconfig.cache
+D:\OOP\програма\LW6\LW6\obj\Debug\net6.0\ref\LW6.dll
