@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\LW7\obj\Debug\netcoreapp3.1\LW7.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LW7\obj\Debug\netcoreapp3.1\LW7.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LW7\obj\Debug\netcoreapp3.1\LW7.AssemblyInfo.cs
+C:\Users\User\source\repos\LW7\obj\Debug\netcoreapp3.1\LW7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LW7\bin\Debug\netcoreapp3.1\LW7.exe
+C:\Users\User\source\repos\LW7\bin\Debug\netcoreapp3.1\LW7.deps.json
+C:\Users\User\source\repos\LW7\bin\Debug\netcoreapp3.1\LW7.runtimeconfig.json
+C:\Users\User\source\repos\LW7\bin\Debug\netcoreapp3.1\LW7.runtimeconfig.dev.json
+C:\Users\User\source\repos\LW7\bin\Debug\netcoreapp3.1\LW7.dll
+C:\Users\User\source\repos\LW7\bin\Debug\netcoreapp3.1\LW7.pdb
+C:\Users\User\source\repos\LW7\obj\Debug\netcoreapp3.1\LW7.dll
+C:\Users\User\source\repos\LW7\obj\Debug\netcoreapp3.1\LW7.pdb
+C:\Users\User\source\repos\LW7\obj\Debug\netcoreapp3.1\LW7.genruntimeconfig.cache
